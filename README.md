@@ -2,7 +2,7 @@
 
 ## Description:
 
-This Python project empowers you to seamlessly download YouTube videos, extract their audio tracks, and transcribe the speech content using OpenAI's powerful Whisper model.
+This jupyter notebook project empowers you to seamlessly download YouTube videos, extract their audio tracks, and transcribe the speech content using OpenAI's powerful Whisper model.
 
 ## Key Features:
 
